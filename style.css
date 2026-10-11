@@ -76,5 +76,5 @@ p {
     color:#000000;background-color:#ffffff;padding:10px;border-radius:8px;align-items:center;text-align:center;text-decoration:none;display:inline-block;margin-top: 10px;font-weight:800;
 }
 .back {
-    background-color: #FF8F85;width:100%;padding: 10px;text-align:center;color:#ffffff;text-decoration:none;display:block;
+    background-color: #FF8F85;width:100%;padding: 10px;text-align:center;color:#000000;text-decoration:none;display:block;
 }
